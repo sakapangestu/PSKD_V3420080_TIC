@@ -1,0 +1,18 @@
+{
+    "name": "saka/jwt-php-native",
+    "autoload": {
+        "psr-4": {
+            "Saka\\JwtPhpNative\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saka Panestu Putra",
+            "email": "sakapangestuputra228@student.uns.ac.id"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "firebase/php-jwt": "^5.5"
+    }
+}
